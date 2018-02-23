@@ -1,7 +1,9 @@
-# miniwob-demos
+# MiniWoB++ Demos
 
-date_turk/ specifies the demos for tasks collected via Amazon Mechanical Turk.
+Please see the [main project repository](https://github.com/stanfordnlp/miniwob-plusplus) for more details.
+
+`date_turk/` are the demos for tasks collected via Amazon Mechanical Turk.
 These demos are likely to be quite noisy.
 
-clean-demos/ specifies the demos for tasks collected by Evan. These demos are
+`clean-demos/` are the demos for tasks collected by Evan. These demos are
 generally completely clean.
